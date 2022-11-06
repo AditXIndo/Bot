@@ -62,4 +62,4 @@ async def methods(ctx):
     )
     await ctx.reply(embed=embed)
 
-client.run("OTAzNTU2MjQ0OTQ4NzkxMzQ3.YXusVA.bGHIgDYj_-KYJgA6VMUgq0d3MzI", bot=True)
+client.run("OTA0Mjc2OTc3Nzg2MTgzNjgx.G0HzME.WYtlmYIZnc8pQatSetIHDUpMt6OTda0_z5y0LE", bot=True)
